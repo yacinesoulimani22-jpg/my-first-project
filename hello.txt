@@ -1,1 +1,2 @@
 Hello World! My first Git project.
+Adding a second line to test Git!
